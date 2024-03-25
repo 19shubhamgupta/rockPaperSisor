@@ -1,4 +1,4 @@
-let choice = document.querySelectorAll(".choice");
+  let choice = document.querySelectorAll(".choice");
 let user = document.querySelectorAll("  .you");
 let comp = document.querySelectorAll(".comp");
 let msg = document.querySelectorAll(" .msg ");
